@@ -1,2 +1,2 @@
-# golang
-Golang Projects
+# Golang learning
+
